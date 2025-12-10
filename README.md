@@ -7,11 +7,12 @@ A Python-based exploratory data-analysis (EDA) project built using Jupyter Noteb
 
 
 📂 Project Structure
-
+```
 Exploratory_Data_Analysis-EDA/
 ├── anime_movies.csv      # Dataset used for analysis
 ├── project_3.ipynb       # Jupyter Notebook containing EDA steps and visualizations
 └── README.md             # Project documentation (this file)
+```
 
 
 🛠️ Requirements & Setup
