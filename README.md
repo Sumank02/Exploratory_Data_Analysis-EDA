@@ -21,8 +21,9 @@ To run the notebook locally, you need:
 - Python 3.x
 - Jupyter Notebook or JupyterLab (or any environment that supports .ipynb)
 - Python packages (install via pip):
-
+```
     pip install pandas numpy matplotlib seaborn  # or other required packages
+```
 
 
 📊 What You’ll Find in the Notebook
@@ -33,6 +34,7 @@ Inside the notebook (project_3.ipynb), you will typically see:
 - Data cleaning / preprocessing (if needed)
 - Exploratory visualizations (distributions, histograms, bar plots, correlations, etc.)
 - Insights and observations about the dataset (e.g. trends, anomalies, relationships)
+
 
 ✅ When This Project is Useful
 
